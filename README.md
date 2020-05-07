@@ -10,7 +10,7 @@ Data is being fetched using covid19india.org api.
 
 ## Screenshots
 ## Screenshots
-![](screenshots/1.jpg)
-![](screenshots/2.jpg)
-![](screenshots/3.jpg)
-![](screenshots/4.jpg)
+![](screenshots/1.jpg {width=100px height=250px})
+![](screenshots/2.jpg {width=100px height=250px})
+![](screenshots/3.jpg {width=100px height=250px})
+![](screenshots/4.jpg {width=100px height=250px})
