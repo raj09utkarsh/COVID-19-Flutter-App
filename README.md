@@ -7,3 +7,10 @@ Data is being fetched using covid19india.org api.
 * Clone the repository.
 * `cd covid`
 * `flutter run`
+
+## Screenshots
+## Screenshots
+![](screenshots/1.jpg)
+![](screenshots/2.jpg)
+![](screenshots/3.jpg)
+![](screenshots/4.jpg)
